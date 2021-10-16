@@ -6,17 +6,29 @@ description:
 nav: true
 ---
 
-## Teaching Instructor, fall 2018
+## Teaching at University of Waterloo, Fall 2018, Full Instructor
 #### Autonomous Mobile Robotics (MTE-544)
 - Upper year undergraduate full course
 - Class consisting of almost 100 students
-- Three lab modules involving ROS and real robots
+- Course outline
+	- Introduction, Probability, State Space 
+	- Coordinate Transforms, Motion Modeling  
+	- Measurement Modeling, Estimation: Bayes Filter  
+	- Estimation: Kalman Filter, Extended Kalman Filter 
+	- Estimation: Particle Filter, Mapping: Localization
+	- Mapping: Mapping, EKF SLAM
+	- Mapping: Graph SLAM 
+	- Mapping: Scan Registration 
+	- Control: Linear, Nonlinear 
+	- Planning: Motion Primitives, Graph Based 
+	- Planning: Probabilistic, Optimal 
+	- Special topics: Geometric controls 
+- Three lab modules involving ROS and real robots (turtle-bots)
 	- lab 1: mapping 
 	- lab 2: localization
 	- lab 3: SLAM
-- Course outline
 
-## Teaching Assistant
+## Teaching Assistant at University of Waterloo
 
 - Department of Mechanical and Mechatronics Engineering,University of Waterloo, Ontario, Canada
 	- **ME-262:** Introduction to Microprocessors and Digital Logic, Fall Term 2016. 
