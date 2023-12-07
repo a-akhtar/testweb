@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Univeristy of California at Santa Cruz 
+description: Assistant Professor, Mechanical and Industrial Eng, New Jersey Institute of Technology (NJIT) 
 
 profile:
   align: right
@@ -12,29 +12,32 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 ***
+
 ####  Education 
+
 - Ph.D. University of Waterloo, ON, Canada
-	- Advisor: Professor [Steven Waslander](https://www.trailab.utias.utoronto.ca/stevenwaslander) 
 - MASc. University of Waterloo, ON, Canada
-	- Advisor: Professor [Christopher Nielson](https://ece.uwaterloo.ca/~cnielsen/) 
-- B.E. National University of Science and Technologies, Pakistan
-	- Advisor: Professor [Saeed-Ur-Rehman](https://www.case.edu.pk/FacultyPortal/DetailInfo.aspx?id=mEzZBKPOkXLjMUDj1TaO%2FQ%3D%3D) 	
-	
-***
-
-####  Postdoctoral Research Scientist 
-- University of California at Santa Cruz, CA, USA
-- University of Toronto, ON, Canada
-- Queens University, ON, Canada
-- York University, ON, Canada
+- B.E. National University of Science and Technologies, Pakistan	
 
 ***
 
-Currently, I am a postdoctoral research scientist at the [Basking School of Electrical and Computer Engineering](https://engineering.ucsc.edu/)  at the [University of California at Santa Cruz](https://www.ucsc.edu/). I am working under the supervision of Professor [Ricardo Sanfelice](https://hybrid.soe.ucsc.edu/)  at Hybrid System Laboratory [(HSL)](https://hybrid.soe.ucsc.edu/). 
+I am currently serving as an Assistant Professor in the [Department of Mechanical & Industrial Engineering](https://mie.njit.edu/) at the New Jersey Institute of Technology [(NJIT)](https://www.njit.edu/), located in NJ, USA.
 
-Before joining the University of California, I held a postdoctoral research position at the University of Toronto, cross-appointed at the Department of Mathematics and Statistics at Queens University, Canada, where I was fortunate enough to work under the supervision of Professor [Andrew Lewis](https://mast.queensu.ca/~andrew/). I also had a research position at SDCN, a state-of-art drone lab, at York University, Canada. 
+I hold a Ph.D. from the [Department of Mechanical and Mechatronics Engineering](https://uwaterloo.ca/mechanical-mechatronics-engineering/) at the [University of Waterloo](https://uwaterloo.ca/) in Ontario, Canada, specializing in the exciting field of aerial robotics and controls. Prior to that, I pursued my MASc degree in the [Department of Electrical and Computer Engineering](https://uwaterloo.ca/electrical-computer-engineering/) at the same esteemed university, focusing on controls and robotics. My academic journey began with a Bachelor of Engineering (BE) degree in Mechatronics Engineering from the National University of Science and Technology [(NUST)](https://nust.edu.pk/).
 
-I completed my Ph.D. from the [Department of Mechanical and Mechatronics Engineering](https://uwaterloo.ca/mechanical-mechatronics-engineering/)  under the supervision of Professor Steve Waslander at the [University of Watelroo](https://uwaterloo.ca/), ON., Canada in the area of aerial robotics and controls. Before that, I was in the [Department of Electrical and Computer Engineering](https://uwaterloo.ca/electrical-computer-engineering/) at the [University of Waterloo](https://uwaterloo.ca/), where I completed my MAsc degree in the area of controls and robotics. I earned a Bachelor of Engineering (BE) degree in Mechatronics Engineering at the National University of Science and Technology [(NUST)](https://nust.edu.pk/). 
+Before joining NJIT, I gained valuable experience as a postdoctoral research scientist at the [University of California at Santa Cruz](https://www.ucsc.edu/) and [KAUST](https://www.kaust.edu.sa/en/). My postdoctoral research journey also included a position at the University of Toronto, with a cross-appointment at the Department of Mathematics and Statistics at Queens University in Canada, where I had the privilege of working under the guidance of Professor [Andrew Lewis](https://mast.queensu.ca/~andrew/). Additionally, I was part of SDCN, a state-of-the-art drone lab at York University, Canada.
+
+------
+
+
+
+####  Open PhD positions
+
+🌟 **Exciting Opportunity for PhD Students in Controls and Robotics!** 🌟
+
+I am thrilled to announce the opening of positions for 1-2 PhD students to join my newly established lab at NJIT! 🚀 If you have a passion for nonlinear, geometric, and hybrid controls, and are eager to explore their applications in robotics and drones, this could be the perfect opportunity for you!
+
+To apply, simply submit your application to NJIT MIE department. Additionally, feel free to reach out to me via email at *adeel.uwaterloo [at] gmail [dot] com* to express your interest or ask any questions.
 
 ***
 
